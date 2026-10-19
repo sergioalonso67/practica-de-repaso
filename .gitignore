@@ -1,0 +1,10 @@
+#ython
+__pycache__/
+*.pyc
+#django
+db.sqlite3
+#entornos virtuales
+venv/
+.venv/
+#variables de entorno
+.env
